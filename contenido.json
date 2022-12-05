@@ -1,0 +1,19 @@
+{"contenido":[
+	{"tag":"saludo",
+	"patrones":["Que onda","Hola","Hi"],
+	"respuestas":["Que pasa wacho","Hola que tal","Bienvenido amigo"]
+},
+{"tag":"despedida",
+	"patrones":["Adios","Hasta la proxima","ya me voy"],
+	"respuestas":["Suerte en tu dia","Cuidate amigo","Nos vemos luego"]
+
+},
+{"tag":"info",
+	"patrones":["Alkha","Collapsing","Mejor dj"],
+	"respuestas":["Alkha el mejor dj","cancion de alkha","es dj"]
+
+}
+
+]
+
+}
